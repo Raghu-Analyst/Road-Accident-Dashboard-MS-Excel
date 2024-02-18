@@ -60,5 +60,5 @@ Number of Fields: 21
 File Size: The file exceeds GitHub's file size limit and cannot be published directly in a repository. A link to the full file is provided below.
 
 ## DASHBOARD LINK
-Explore the complete Road Accident Dashboard MS Excel [here](https://1drv.ms/x/s!Ap_MTEb4qh_SgQKlcUL5L_Y6iTaU?e=oYGSdq).
+Explore the complete Road Accident Dashboard MS Excel [here](https://georgiancollege-my.sharepoint.com/:x:/g/personal/200537247_student_georgianc_on_ca/EYHzAjh6hQBMjTD3QUbiUvwBaTWvMklHnEeDOfEba26M8w?e=pNpFbS).
 
